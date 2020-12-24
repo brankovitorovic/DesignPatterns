@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Workspaces/PatternWorkspace/Design patterns/lib/javatuples-1.2.jar">
+	<classpathentry kind="lib" path="C:/Users/Vitorovic/git/DesignPatterns/Design patterns/lib/javatuples-1.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>

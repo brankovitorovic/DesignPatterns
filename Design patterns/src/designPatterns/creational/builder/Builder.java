@@ -45,7 +45,7 @@ class EmployeeBuilder extends PersonBuilder<EmployeeBuilder> {
 
 class Builder {
 	public static void main(String[] args) {
-		EmployeeBuilder eb = new EmployeeBuilder().withName("Brankl").worksAs("Developer");
+		EmployeeBuilder eb = new EmployeeBuilder().withName("Branko").worksAs("Developer");
 		System.out.println(eb.build());
 	}
 }
