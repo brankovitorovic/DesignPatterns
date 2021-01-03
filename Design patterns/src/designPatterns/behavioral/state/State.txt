@@ -1,0 +1,4 @@
+The main idea is that, at any given moment, there’s a finite number of states which a program can be in. Within any unique state, 
+the program behaves differently, and the program can be switched from one state to another instantaneously. 
+However, depending on a current state, the program may or may not switch to certain other states. These switching rules, called transitions, 
+are also finite and predetermined.
